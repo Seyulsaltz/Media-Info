@@ -6,3 +6,5 @@ Copy and paste this “Setup.exe” file, located inside “dist,” into your p
 Run it, and when the process is complete, press Enter in the cmd to close it.
 
 Note: Please note that once the installation is complete, these will be added after your last user property.
+
+Tutorial : https://youtu.be/Efmr8KAn9cE
